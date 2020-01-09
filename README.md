@@ -1,6 +1,6 @@
 # STM32CubeG0 MCU Firmware Package
 
-This is a clone of https://github.com/mmoskal/STM32CubeG0 with a bunch of stuff removed (see clean.sh).
+This is a clone of https://github.com/STMicroelectronics/STM32CubeG0 with a bunch of stuff removed (see clean.sh).
 To be used as a submodule.
 
 -----
